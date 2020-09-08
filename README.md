@@ -1,4 +1,4 @@
-#Briefing
+# Briefing
  This example is only one HTML5 file called index.html and a folder called assets that stores one image. Dont worry
  about any more files or folders you may see. This  example uses ONLY HTML no other language. HTML is the *structure* of a
  web page. Every web page must use some form of HTML in order for a browser to render or understand what to display. Also
@@ -9,7 +9,7 @@
  <body> tag of the HTML. Since the <body> tag is the "parent" meaning all the other HTML is inside it, you can think of it
  as it is the background to the webpage.
 
-#Instructions
+# Instructions
 1. Change the web browsers title to your first name
 2. Change the heading text of the page to "Home Page"
 3. Change the web page paragraph to say "Hey look I edited this HTML web page"
